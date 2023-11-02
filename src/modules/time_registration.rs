@@ -1,5 +1,4 @@
 extern crate reqwest;
-extern crate tokio;
 
 use reqwest::Error;
 
